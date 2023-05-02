@@ -1,0 +1,10 @@
+{
+  "welcome": "Welcome to tradly",
+  "subHeader": "Login to your account",
+  "email": "Email/Mobile Number",
+  "password": "Password",
+  "login": "Login",
+  "forgetPassword": "Forgot your password?",
+  "registration": "Don’t have an account?",
+  "signUp": "Sign up"
+}
